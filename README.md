@@ -1,1 +1,1 @@
-# Proyecto-7-Cronometro
+# Proyecto7
